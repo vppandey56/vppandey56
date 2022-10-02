@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ved Prakash Pandey😉</h1>
-<h3 align="center">I'm a passionate C++/Python Programmer and Web developer from India.<br>Being Standout is my hobby... Trying to be unique always is my goal..</h3>
+<h3 align="center">I'm a passionate C++/Python Programmer and Web developer from India.<br><br>Being Standout is my hobby... Trying to be unique always is my goal..</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vppandey56&label=Profile%20views&color=0e75b6&style=flat" alt="vppandey56" /> </p>
 
