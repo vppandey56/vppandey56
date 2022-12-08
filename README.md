@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ved Prakash Pandey😉</h1>
-<h3 align="center">A student of Bachelor Of Technology in Computer. I'm passionate C++/Python Programmer and Front End development from India. Being Standout is my hobby... Trying to be unique always is my goal..</h3>
+<h3 align="center">A student of Bachelor Of Technology in Computer. I'm passionate C++/Python Programmer and front Eend developer from India. Being Standout is my hobby... Trying to be unique always is my goal..</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vppandey56&label=Profile%20views&color=0e75b6&style=flat" alt="vppandey56" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ved-prakash-pandey-45577a1b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ved-prakash-pandey-45577a1b1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ved-prakash-pandey-45575a1b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ved-prakash-pandey-45575a1b1" height="30" width="40" /></a>
 <a href="https://fb.com/vppandey420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vppandey420" height="30" width="40" /></a>
 <a href="https://instagram.com/its__vppandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its__vppandey" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vppandey56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vppandey56" height="30" width="40" /></a>
